@@ -1,12 +1,16 @@
+<!-- BANNER SUPERIOR ANIMADO -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0:00f2fe,50:4facfe,100:000000&height=220&section=header&text=Rams%C3%A9s%20Valdivia&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=36" width="100%" />
+
 <div align="center">
 
-  <!-- ENCABEZADO Y PRESENTACIÓN -->
-  <h1>¡Hola! Soy <a href="https://github.com/rvaldivia03">Ramsés Valdivia</a> 👋</h1>
-  <h3><b>Ingeniero Informático | Desarrollador Full-Stack & Backend</b></h3>
+  <!-- EFECTO MÁQUINA DE ESCRIBIR ANIMADA -->
+  <a href="https://github.com/rvaldivia03">
+    <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=21&pause=1000&color=00F2FE&center=true&vcenter=true&width=650&height=50&lines=Ingeniero+Inform%C3%A1tico+%F0%9F%8D%93;Desarrollador+Full-Stack+%26+Backend+%F0%9F%92%BB;Node.js+%E2%80%A2+Express+%E2%80%A2+Vue.js+%E2%80%A2+Nuxt.js+%F0%9F%9A%80;Python+%E2%80%A2+Django+%E2%80%A2+FastAPI+%E2%80%A2+PyTorch+%F0%9F%94%A5;Testing+con+Vitest+%26+Playwright+%F0%9F%AEA;Apasionado+por+Linux+(Zorin+OS)+%26+Clean+Code+%F0%9F%90%A7" alt="Typing SVG" />
+  </a>
 
-  <p><i>Especializado en el diseño de arquitecturas backend escalables, APIs RESTful y aplicaciones web modernas.</i></p>
+  <br /><br />
 
-  <!-- BADGES DE REDES Y CONTACTO -->
+  <!-- BADGES DE CONTACTO -->
   <a href="mailto:rvaldivia361@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
@@ -17,59 +21,26 @@
 
 </div>
 
----
+<!-- SEPARADOR ANIMADO -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-### 🚀 Sobre Mí
+## ⚡ perfil.js
 
-* 🎓 **Educación:** Ingeniero Informático graduado.
-* 💡 **Especialidades:** Desarrollo Backend (Node.js/Express, Python/Django/FastAPI) y Full-Stack (Vue.js/Nuxt.js).
-* 🧪 **Calidad & Testing:** Pruebas unitarias (Vitest) y End-to-End (Playwright), arquitecturas limpias y auditoría de logs (Winston/Morgan).
-* 🧠 **IA & Ciencia de Datos:** Aplicación de Deep Learning (PyTorch) y procesamiento de datos para la resolución de problemas complejos.
-* ⚙️ **Entorno de Trabajo:** Entusiasta del ecosistema Linux (Zorin OS) y las buenas prácticas de desarrollo.
-* 🌐 **Idiomas:** Español (Nativo) | Inglés (B2).
-
----
-
-### 🛠️ Stack Tecnológico
-
-<div align="center">
-
-  <!-- Backend & DB -->
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
-  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express" />
-  <img src="https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&logo=sequelize&logoColor=white" alt="Sequelize" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django" />
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI" />
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-
-  <br />
-
-  <!-- Frontend & UI -->
-  <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white" alt="Vue.js" />
-  <img src="https://img.shields.io/badge/Nuxt.js-00DC82?style=for-the-badge&logo=nuxtdotjs&logoColor=white" alt="Nuxt.js" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-
-  <br />
-
-  <!-- Testing, IA & Tools -->
-  <img src="https://img.shields.io/badge/Vitest-6E9F18?style=for-the-badge&logo=vitest&logoColor=white" alt="Vitest" />
-  <img src="https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white" alt="Playwright" />
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-
-</div>
-
----
-
-### 📌 Proyectos Destacados
-
-| Proyecto | Descripción | Stack Principal |
-| :--- | :--- | :---: |
-| **☕ Sistema de Gestión de Cafetería** | API RESTful con arquitectura MVC, patrones de controladores, validación estricta con UUIDs y sistema de auditoría con Winston y Morgan. | `Node.js` `Express` `Sequelize` |
-| **🔐 Web App 2FA & Testing** | Aplicación web full-stack con autenticación en dos pasos, interfaz fluida y suite de pruebas unitarias y E2E automatizadas. | `Nuxt.js` `Vitest` `Playwright` |
-| **🫀 Estimación de Edad Cardiovascular** | Modelo de Deep Learning (CNNs) y procesamiento de señales electrocardiográficas (filtros Butterworth) bajo metodología CRISP-DM. | `PyTorch` `Pandas` `Python` |
-| **🎲 Gestión D&D** | Aplicación de escritorio para la administración de partidas de rol con interfaz gráfica personalizada. | `Python` `CustomTkinter` |
+```javascript
+const ramses = {
+  titulo: "Ingeniero Informático",
+  enfoque: "Desarrollo Backend & Full-Stack",
+  stackPrincipal: {
+    backend: ["Node.js", "Express", "Sequelize", "Python", "Django", "FastAPI"],
+    frontend: ["Vue.js", "Nuxt.js", "JavaScript (ES6+)"],
+    testing: ["Vitest", "Playwright"],
+    ia_data: ["PyTorch", "Pandas", "NumPy", "Scikit-Learn"]
+  },
+  baseDeDatos: ["PostgreSQL", "MySQL", "SQLite"],
+  entorno: "Linux (Zorin OS)",
+  idiomas: {
+    español: "Nativo",
+    ingles: "B2 (Intermedio Alto)"
+  },
+  arquitectura: ["MVC", "APIs RESTful", "Clean Code", "2FA Security"]
+};
