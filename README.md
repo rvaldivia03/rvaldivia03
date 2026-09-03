@@ -1,7 +1,7 @@
 <div align="center">
 
   <!-- ENCABEZADO Y PRESENTACIÓN -->
-  <h1>¡Hola! Soy <a href="https://github.com/[tu-usuario]">Ramsés Valdivia</a> 👋</h1>
+  <h1>¡Hola! Soy <a href="https://github.com/rvaldivia03">Ramsés Valdivia</a> 👋</h1>
   <h3><b>Ingeniero Informático | Desarrollador Full-Stack & Backend</b></h3>
 
   <p><i>Especializado en el diseño de arquitecturas backend escalables, APIs RESTful y aplicaciones web modernas.</i></p>
