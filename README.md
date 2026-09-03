@@ -16,22 +16,17 @@
   <br/>
   <br/>
   
-  <!-- Insignias de contacto estilizadas -->
+  <!-- Iconos de contacto minimalistas -->
   <p>
     <a href="mailto:rvaldivia361@gmail.com">
-      <img src="https://img.shields.io/badge/📧_Email-rvaldivia361%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1a1a1a" alt="Email"/>
+      <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" width="40"/>
     </a>
-    &nbsp;
+    &nbsp;&nbsp;
     <a href="https://github.com/rvaldivia03">
-      <img src="https://img.shields.io/badge/💻_GitHub-rvaldivia03-100000?style=for-the-badge&logo=github&logoColor=white&labelColor=1a1a1a" alt="GitHub"/>
+      <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" width="40"/>
     </a>
-    &nbsp;
-    <img src="https://img.shields.io/badge/📍_Ubicación-Cuba-002A8F?style=for-the-badge&logo=googlemaps&logoColor=white&labelColor=1a1a1a" alt="Ubicación"/>
-  </p>
-  
-  <!-- Contador de visitas -->
-  <p>
-    <img src="https://komarev.com/ghpvc/?username=rvaldivia03&label=👁️_Visitas_al_perfil&color=00F2FE&style=for-the-badge" alt="Contador de visitas"/>
+    &nbsp;&nbsp;
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" width="40"/>
   </p>
 </div>
 
@@ -266,14 +261,17 @@
 <div align="center">
   <h3>💬 ¡Conectemos y creemos algo increíble juntos!</h3>
   
+  <!-- Iconos minimalistas -->
   <p>
     <a href="mailto:rvaldivia361@gmail.com">
-      <img src="https://img.shields.io/badge/📧_Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1a1a1a"/>
+      <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
     </a>
     &nbsp;
     <a href="https://github.com/rvaldivia03">
-      <img src="https://img.shields.io/badge/💻_GitHub-100000?style=for-the-badge&logo=github&logoColor=white&labelColor=1a1a1a"/>
+      <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
     </a>
+    &nbsp;
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </p>
   
   <p>
