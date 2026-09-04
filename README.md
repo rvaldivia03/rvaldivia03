@@ -1,9 +1,9 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0a,100:1a1a2e&height=200&section=header&text=Ramses%20Valdivia&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Ingeniero%20Informático%20|%20Full-Stack%20Developer&descSize=16&descAlignY=55" width="100%" alt="Banner"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:161b22&height=220&section=header&text=Ramsés%20Valdivia&fontSize=50&fontColor=f0f6fc&animation=fadeIn&fontAlignY=35&desc=Ingeniero%20Informático%20|%20Full-Stack%20Developer&descSize=16&descAlignY=55" width="100%" alt="Banner"/>
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=22&pause=2000&color=4A90E2&center=true&vcenter=true&width=600&lines=Desarrollador+Backend+%26+Full-Stack;Arquitecturas+Escalables+y+APIs+RESTful;Node.js+%E2%80%A2+Express+%E2%80%A2+Vue.js+%E2%80%A2+Nuxt.js;;Linux+Enthusiast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=500&size=22&pause=2000&color=58A6FF&center=true&vcenter=true&width=750&lines=Desarrollador+Backend+%26+Full-Stack;Arquitecturas+Escalables+y+APIs+RESTful;Python+%E2%80%A2+Django+%E2%80%A2+Django+REST+Framework;Node.js+%E2%80%A2+Express+%E2%80%A2+Vue.js+%E2%80%A2+Nuxt.js;Linux+Enthusiast" alt="Typing SVG" />
   
   <br/>
   <br/>
@@ -37,6 +37,7 @@
         <ul>
           <li>🎓 <b>Ingeniero Informático</b> graduado con honores</li>
           <li>🚀 <b>Especialista en Backend:</b> Node.js, Express, APIs RESTful</li>
+          <li>🐍 <b>Python & Django:</b> Django, Django REST Framework</li>
           <li>🎨 <b>Frontend:</b> Vue.js, Nuxt.js, JavaScript ES6+</li>
           <li>🐧 <b>Linux Enthusiast</b></li>
           <li>📚 <b>Aprendizaje Continuo:</b> Siempre explorando nuevas tecnologías</li>
@@ -55,11 +56,12 @@
 <div align="center">
   <h3>⚡ Backend & Base de Datos</h3>
   <p>
+    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/>
+    <img src="https://img.shields.io/badge/DRF-092E20?style=for-the-badge&logo=django&logoColor=white"/>
     <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
     <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
     <img src="https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&logo=sequelize&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/>
   </p>
   <p>
     <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
@@ -89,6 +91,31 @@
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 </p>
 
+<h2 align="center">Proyectos Destacados</h2>
+
+<div align="center">
+  <table>
+    <tr>
+      <th>🔖 Proyecto</th>
+      <th>📝 Descripción</th>
+      <th>🛠️ Stack Principal</th>
+    </tr>
+    <tr>
+      <td align="center" colspan="3">
+        <br/>
+        <em>🚧 Próximamente...</em>
+        <br/><br/>
+        <sub>Estoy trabajando en nuevos proyectos que compartiré aquí</sub>
+        <br/><br/>
+      </td>
+    </tr>
+  </table>
+</div>
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+</p>
+
 <div align="center">
   <h3>💬 ¡Conectemos y creemos algo increíble juntos!</h3>
   
@@ -103,6 +130,6 @@
   </p>
   
   <p>
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0a,100:1a1a2e&height=100&section=footer" width="100%"/>
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:161b22&height=100&section=footer" width="100%"/>
   </p>
 </div>
