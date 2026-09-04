@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=22&pause=2000&color=4A90E2&center=true&vcenter=true&width=600&lines=Desarrollador+Backend+%26+Full-Stack;Arquitecturas+Escalables+y+APIs+RESTful;Node.js+%E2%80%A2+Express+%E2%80%A2+Vue.js+%E2%80%A2+Nuxt.js;Testing+Automatizado+con+Vitest+%26+Playwright;Linux+Enthusiast+%7C+Clean+Code" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=22&pause=2000&color=4A90E2&center=true&vcenter=true&width=600&lines=Desarrollador+Backend+%26+Full-Stack;Arquitecturas+Escalables+y+APIs+RESTful;Node.js+%E2%80%A2+Express+%E2%80%A2+Vue.js+%E2%80%A2+Nuxt.js;;Linux+Enthusiast" alt="Typing SVG" />
   
   <br/>
   <br/>
@@ -38,7 +38,7 @@
           <li>🎓 <b>Ingeniero Informático</b> graduado con honores</li>
           <li>🚀 <b>Especialista en Backend:</b> Node.js, Express, APIs RESTful</li>
           <li>🎨 <b>Frontend:</b> Vue.js, Nuxt.js, JavaScript ES6+</li>
-          <li>🐧 <b>Linux Enthusiast:</b> Zorin OS</li>
+          <li>🐧 <b>Linux Enthusiast</b></li>
           <li>📚 <b>Aprendizaje Continuo:</b> Siempre explorando nuevas tecnologías</li>
         </ul>
       </td>
@@ -74,12 +74,6 @@
     <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
     <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
     <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-  </p>
-
-  <h3>🧪 Testing & Calidad</h3>
-  <p>
-    <img src="https://img.shields.io/badge/Vitest-6E9F18?style=for-the-badge&logo=vitest&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white"/>
   </p>
 
   <h3>🛠️ Herramientas & Entorno</h3>
